@@ -76,9 +76,9 @@ while True:
             closest_last_time = now
             print(entry.rssi)
             print("Color {:06x}".format(entry.color))
-            if entry.color == 0x110000: #advertiser 1
-                asyncio.run(main_1())
-            elif entry.color == 0x000011: #advertiser 2
-                asyncio.run(main_2())
-            else:
-                ble.stop_scan()
+        if entry.color == 0x110000: #advertiser 1
+            asyncio.run(main_1())
+        elif entry.color == 0x000011: #advertiser 2
+            asyncio.run(main_2())
+        else:
+            ble.stop_scan()
