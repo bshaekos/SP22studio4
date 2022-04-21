@@ -1,2 +1,5 @@
 # SP22studio4
- Studio 4 Project
+Omni - A Cyborg Technology
+
+Project Brief: 
+
