@@ -13,4 +13,4 @@ I created five devices that used Bluetooth Low Energy (BLE) technology to commun
 
 Video of Experience:
 
-https://vimeo.com/manage/videos/723618699
+https://vimeo.com/723618699
