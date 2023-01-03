@@ -18,3 +18,7 @@ I created five devices that used Bluetooth Low Energy (BLE) technology to commun
 Full Video of Experience:
 
 https://vimeo.com/blakeshae/omni-prototype
+
+Full Documentation:
+
+https://www.blakeshaekos.com/work/omni-a-cyborg-technology
