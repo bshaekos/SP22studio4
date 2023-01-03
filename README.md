@@ -1,6 +1,6 @@
 # Omni - A Cyborg Technology
 
-Project Brief: 
+## Project Brief: 
 
 Design a technological something (e.g., wearable, device, tool, space,
 software, infrastructure) that gives YOU, or one of your peers, a special ability
@@ -19,6 +19,6 @@ Full Video of Experience:
 
 https://vimeo.com/blakeshae/omni-prototype
 
-Full Documentation:
+Full Project Documentation:
 
 https://www.blakeshaekos.com/work/omni-a-cyborg-technology
