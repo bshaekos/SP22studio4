@@ -1,6 +1,6 @@
 # Omni - A Cyborg Technology
 
-## Project Brief: 
+Project Brief: 
 
 Design a technological something (e.g., wearable, device, tool, space,
 software, infrastructure) that gives YOU, or one of your peers, a special ability
@@ -15,10 +15,10 @@ I created five devices that used Bluetooth Low Energy (BLE) technology to commun
 
 ![OMNI-Device-Move-1-360-10](https://user-images.githubusercontent.com/76088958/209447686-373084e5-bd42-4f94-bc1b-00bfe5f51a00.gif)
 
-Full Video of Experience:
+### Full Video of Experience:
 
 https://vimeo.com/blakeshae/omni-prototype
 
-Full Project Documentation:
+### Full Project Documentation:
 
 https://www.blakeshaekos.com/work/omni-a-cyborg-technology
